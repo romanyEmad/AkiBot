@@ -1,9 +1,8 @@
 
 
-# akiBot [![Add to Discord](https://img.shields.io/badge/Add%20to-Discord-7289da.svg)](https://discordapp.com/oauth2/authorize?client_id=670402239218581514&scope=bot&permissions=85056)
 **A Discord Akintor Bot.**
 
-**Made By:** Ms6RB#1101
+**Made By:** !  𝐑𝐎𝐌𝐀𝐍𝐘 ♔.#2312
 
 
 
